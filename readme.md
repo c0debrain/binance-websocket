@@ -1,3 +1,6 @@
+# What is this 
+Simple example of using websocket to listen to Binance Candle Stick Stream, updated every minute
+
 # Run this project
 ```
 npm install
